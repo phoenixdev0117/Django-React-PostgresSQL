@@ -1,14 +1,3 @@
-<p align="center">
-  <p align="center">
-    <a href="https://www.youtube.com/@codingforinnovations" target="_blank">
-      <img src=".github/static/logo.png" height="72" alt="Coding for Innovations Logo"/>    
-    </a>
-  </p>
-  <p align="center">
-    For Programmers, By Programmers.
-  </p>
-</p>
-
 # Django & React with Docker, Postgres, Nginx
 
 >A Bootstrapped Template of Django with React using Docker, Postgres Database and Nginx!
