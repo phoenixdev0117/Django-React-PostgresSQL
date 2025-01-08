@@ -130,9 +130,3 @@ npm run dev
 Open [localhost:3000](http://localhost:3000) in your favourite browser :)
 
 <br />
-
-
-<div align="center">
-<i>Other places you can find us:</i><br>
-<a href="https://www.youtube.com/@codingforinnovations" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-</div>
